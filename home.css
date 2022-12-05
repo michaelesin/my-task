@@ -1,0 +1,489 @@
+body{
+    background-image:linear-gradient(to right, blueviolet, rgb(77, 46, 106));
+}
+
+nav ul li{
+   display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 4%;
+    font-weight: bold;
+    
+}
+.hurricane{
+    background-color: white;
+    width: 100%;
+    margin-top: -60px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.tornado{
+    position: relative;
+    padding: 0%;
+    color: purple;
+    bottom: -30px;
+
+}
+.ab{
+    position: relative;
+    float: right;
+    bottom: -30px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    border: none;
+    background-color: blueviolet;
+}
+
+.ay{
+    position: relative;
+    float: right;
+    bottom: -30px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    border: 2px solid purple;
+
+}
+.gp{
+    position: relative;
+    margin-top: 50px;
+}
+.lp{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    border-radius: 20px;
+}
+.az{
+   position: relative;
+    bottom: 300px;
+    text-align: center;
+    color: white;
+}
+.go{
+    position: relative;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    left: 450px;
+    top: -260px;
+    margin: 20px;
+    font-size: 30px;
+    
+}
+
+.go:hover{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(231, 12, 37)
+}
+
+.biggy{
+    position: absolute;
+    top: 450px;
+    right: 500px;
+    height: 30px;
+    width: 300px;
+    border-radius: 15px;
+}
+.small{
+    position: absolute;
+    top: 450px;
+    right: 500px;
+    height: 30px;
+    width: 70px;
+    border: none;
+   background-color: red;
+   border-radius: 15px;
+}
+.jango{
+    position: relative;
+    margin-top: 30px;
+}
+.mko{
+    position: relative;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+.dot{
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    top: -145px;
+    background-color: white;
+    border-radius: 20px;
+    height: 350px;
+    width: 100%;
+
+}
+.bomby{
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+    right: 150px;
+    top: -370px;
+    
+}
+.bomb{
+    position: relative;
+    padding: 15px;
+    float: left;
+    top: -370px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    left: 130px;
+}
+
+.bombero{
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+    text-align: center;
+    top: -370px;
+    left: 150px;
+}
+
+.bomber{
+    position: relative;
+    text-align: center;
+    top: -370px;
+    left: -200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.bombayo{
+    font-size: large;
+    font-weight: bolder;
+    position: relative;
+    float: right;
+    top: -520px;
+    right: 280px;
+   
+}
+.bombay{
+    position: relative;
+    float: right;
+    top: -500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    
+}
+
+.cat{
+    position: relative;
+    background-color: rgb(1, 26, 1);
+    color: white;
+    top: -370px;
+    right: 150px;
+    height: 30px;
+    width: 150px;
+    border-radius: 15px;
+}
+
+.dog{
+    position: relative;
+    background-color: rgb(1, 26, 1);
+    color: white;
+    top: -370px;
+    height: 30px;
+    width: 150px;
+    border-radius: 15px;
+    left: 50px; 
+}
+
+.rat{
+    position: relative;
+    background-color: rgb(1, 26, 1);
+    color: white;
+    top: -370px;
+    height: 30px;
+    width: 150px;
+    border-radius: 15px;
+    left: 200px; 
+}
+
+
+
+.cv{
+    background-color: white;
+    margin-top: -290px;
+    height: 350px;
+    border-radius: 20px;
+
+}
+.tv{
+    position: relative;
+    left: -300px;
+    top: -20px;
+    width: 260px;
+    height: 240px;
+    border-radius: 10px;
+
+}
+.tv1{
+    position: relative;
+    bottom: 250px ;
+    color: white;
+
+}
+.tv2{
+    position: relative;
+    bottom: 230px;
+    background-color: white;
+    color: black;
+    border: none; 
+    height: 30px;
+    width: 100px;
+    left: 120px;
+    border-radius: 10px;
+}
+.bp{
+    text-align: center;
+
+}
+.bc{
+    position: relative;
+    text-align: center;
+    top: -20px;
+   
+    
+
+}
+
+.pin{
+    width: 15%;
+    height: 120px;
+    top: -333px;
+    position: relative;
+    left: 190px;
+    border-radius: 10px;
+} 
+
+.pin1{
+    position: relative;
+    top: -475px;
+    left: 330px;
+    color: white;
+}
+
+.piin{
+    width: 15%;
+    height: 120px;
+    top: -460px;
+    position: relative;
+    left: 295px;
+    border-radius: 10px;
+}
+.one{
+    position: relative;
+    bottom: 580px;
+    left: 330px;
+    color: white;
+}
+
+.once{
+    position: relative;
+    bottom: 670px;
+    background-color: white;
+    color: black;
+    border: none; 
+    height: 30px;
+    width: 100px;
+    left: 360px;
+    border-radius: 10px;
+}
+
+.terry{
+    width: 15%;
+    height: 120px;
+    top: -780px;
+    position: relative;
+    left: 400px;
+    border-radius: 10px; 
+}
+
+.terry1{
+    position: relative;
+    bottom: 920px ;
+    color: white;
+    left: 520px;
+}
+
+.terry2{
+    position: relative;
+    bottom: 1000px;
+    background-color: white;
+    color: black;
+    border: none; 
+    height: 30px;
+    width: 100px;
+    left: 520px;
+    border-radius: 10px;
+}
+
+.mad{
+    width: 15%;
+    height: 120px;
+    top: -850px;
+    position: relative;
+    left: 400px;
+    border-radius: 10px;   
+}
+
+.mad1{
+    position: relative;
+    bottom: 1000px ;
+    color: white;
+    left: 520px;
+}
+
+.mad2{
+    position: relative;
+    bottom: 1190px;
+    background-color: white;
+    color: black;
+    border: none; 
+    height: 30px;
+    width: 100px;
+    left: 520px;
+    border-radius: 10px;
+}
+
+.mike{
+    position: relative;
+    left: 600px;
+    bottom: 1170px;
+    width: 260px;
+    height: 240px;
+    border-radius: 10px; 
+}
+
+.mike1{
+    position: relative;
+    left: 720px; 
+    bottom: 1400px;
+    color: white;
+}
+
+.mike2{
+    position: relative;
+    bottom: 1400px;
+    background-color: white;
+    color: black;
+    border: none; 
+    height: 30px;
+    width: 100px;
+    left: 720px;
+    border-radius: 10px;
+}
+
+.mikel{
+    position: relative;
+    left: 880px;
+    bottom: 1488px;
+    width: 15%;
+    height: 120px;
+    border-radius: 10px; 
+}
+
+.mikel1{
+    position: relative;
+    left: 990px; 
+    bottom: 1640px;
+    color: white;
+
+}
+
+.mikel2{
+    position: relative;
+    bottom: 1700px;
+    background-color: white;
+    color: black;
+    border: none; 
+    height: 30px;
+    width: 100px;
+    left: 990px;
+    border-radius: 10px;
+}
+
+.john{
+    width: 15%;
+    height: 120px;
+    bottom: 1560px;
+    position: relative;
+    left: 880px;
+    border-radius: 10px;
+}
+
+.john1{
+    position: relative;
+    bottom: 1700px;
+    left: 1020px;
+    color: white;
+}
+
+.text4{
+    position: relative;
+    text-align: center;
+    top: -2px;
+    color: white;
+}
+.jp{
+    position: relative;
+    top: -5px;
+    height: 35px;
+    width: 300px;
+    left: 440px;
+    border-radius: 15px;
+    border: none;
+}
+
+.jjc{
+    position: relative;
+    top: -5px;
+    left: 350px;
+    height: 35px;
+    width: 100px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(209, 9, 9);
+}
+
+.don{
+    width: 95%;
+    height: 500px;
+    border-radius: 20px;
+    position: absolute;
+    padding: 10px;
+    margin-top: -300px;
+    top: 2000px;
+    left: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: white;
+}
+.don1{
+    color: white;
+    font-size: 20px;
+    width: 50%;
+    border-radius: 10px;
+    margin-top: -20px;
+    padding: 2px;
+    text-decoration: underline;
+    background: linear-gradient(to right, rgb(103, 3, 73), rgb(233, 21, 124), rgb(103, 3, 73));
+    margin-left: 300px;
+    text-align: center;
+}
+.don2{
+    display: inline-block;
+    text-align: center;
+    padding: 30px;
+}
+    
+   
